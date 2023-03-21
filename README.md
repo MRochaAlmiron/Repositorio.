@@ -1,2 +1,1 @@
-# Repositorio.
-Hola, soy Martina 
+Homework02 git hub
